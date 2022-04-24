@@ -1,4 +1,4 @@
-# flutter_crud
+# Flutter application CRUD
 
 A new Flutter application CRUD.
 
